@@ -1,7 +1,7 @@
 # Car Model Comparison Data Pipeline
 
 This project is a **data engineering and analysis pipeline** built on the [CarDekho Vehicle Dataset](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho).
-It provides tools to **compare car models** across specifications, prices, and features using structured ETL/ELT workflows and visualization dashboards.
+It provides tools to **compare car models** across specifications, prices, and features using structured ELT workflows and visualization dashboards.
 
 ## 🚀 Features
 
@@ -20,3 +20,4 @@ It provides tools to **compare car models** across specifications, prices, and f
 - Help buyers compare cars efficiently.
 - Assist sellers in understanding market positioning.
 - Provide analysts with a clean, structured dataset for automotive insights.
+
