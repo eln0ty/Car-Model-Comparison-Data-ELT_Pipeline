@@ -1,0 +1,11 @@
+version: 2
+models:
+  - name: dim_car
+    description: "Unique car definitions."
+
+  - name: fact_listing
+    description: "Listings with attributes and bands."
+    columns:
+      - name: car_id
+        tests: [not_null]
+
