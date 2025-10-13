@@ -8,7 +8,6 @@ It provides tools to **compare car models** across specifications, prices, and f
 - **Data Ingestion**: Load raw CSV dataset into a structured workflow.
 - **Data Cleaning & Preprocessing**: Handle missing values, normalize features, and prepare data.
 - **ELT Pipeline with DBT & Airflow**:
-  - **Airflow** orchestrates the workflow (scheduling, task dependencies).
   - **DBT** handles transformations, modeling, and documentation.
   - End-to-end data pipeline from raw input → staging → transformed → analytics layer.
 - **Exploratory Data Analysis (EDA)**: Extract insights on car specs, fuel types, and prices.
